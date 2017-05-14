@@ -29,7 +29,7 @@ Instructions for pairing:
 
  Step 3: Now its kinda paired but not really (dont worry you dont have to do that last step everytime).
 
- Step 4: Open Terminal and type: ds4drv and hit enter. Now, turn off the DS4 by holding the Playstation button for 10 seconds. You'll know this has happend when the light turns off. Then, hold the Share and the Playstation button on the controller simultaneously until the controller starts flashing. After this, ds4drv should find and connect your DS4, finishing the pairing process. You should keep this terminal process running in the background as long as you use the DS4.
+ Step 4: Open Terminal and type: ds4drv and hit enter. Now, turn off the DS4 by holding the Playstation button for 10 seconds. You'll know this has happend when the light turns off. Then, hold the Share and the Playstation button simultaneously until the controller starts flashing. After this, ds4drv should find and connect your DS4, finishing the pairing process. You should keep this terminal process running in the background as long as you use the DS4.
 
  Step 5: (Optional) switch to XBox mode by holding R1 L1 and the Playstation button. This mode offers more compatibility in games.
 
