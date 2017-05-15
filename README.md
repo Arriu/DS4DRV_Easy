@@ -33,8 +33,9 @@ Instructions for pairing:
 
  Step 5: There are 3 different preset configurations available. You can cycle through them using pressing L1 + R1 + PS simultaneously. Each mode makes the controller emit a different color of light.
      1 ) Dualshock 4. Blue
-     2 ) Xbox. Red. ds4drv will now present your DS4 as an xbox controller to the computer, allowing you to play certain games 
-         that only support xbox button mapping.
+     
+     2 ) Xbox. Red. ds4drv will now present your DS4 as an xbox controller to the computer, allowing you to play certain games that only support xbox button mapping.
+     
      3 ) Mouse and keyboard. Green.
      
 Video guide: https://www.youtube.com/watch?v=y8PFwXfDSk0
